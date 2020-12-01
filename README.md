@@ -1,2 +1,5 @@
 # hello-world
-test create repository
+
+Hi colleagues,
+
+This is my first hello world.
